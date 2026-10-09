@@ -19,7 +19,7 @@ The following subsections describe the mathematical formulation and implementati
 Consider a continuous, bounded optimization problem expressed as
 
 $$
-\min_{\mathbf{x}\in\Omega} f(\mathbf{x}), \tag{1}
+\min_{\mathbf{x}\in\Omega}f(\mathbf{x}), \tag{1}
 $$
 
 where $f:\mathbb{R}^{D}\rightarrow\mathbb{R}$ is the objective function, $D$ is the number of decision variables, and the feasible search domain is defined by
